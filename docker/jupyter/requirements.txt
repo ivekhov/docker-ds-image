@@ -6,6 +6,9 @@ numpy
 matplotlib
 scipy
 jupyterlab
+pystan
 fbprophet
 scikit-learn
 statsmodels
+#keras==2.1.4
+tensorflow
