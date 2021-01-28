@@ -1,4 +1,4 @@
-# Data Science Project Template
+# Data Science Project Template (taken from glebmikha)
 
 Youtube instructions:
 
@@ -15,7 +15,7 @@ Create a new directory, cd into it, and then run
 
 ```
 git init
-git pull https://github.com/glebmikha/data-science-project-template.git
+git pull https://github.com/ivekhov/docker-ds-image.git
 ```
 
 Or you can just download it as a zip and use it without git.
