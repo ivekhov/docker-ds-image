@@ -1,2 +1,11 @@
 psycopg2-binary
 catboost
+xgboost
+pandas
+numpy
+matplotlib
+scipy
+jupyterlab
+fbprophet
+scikit-learn
+statsmodels
